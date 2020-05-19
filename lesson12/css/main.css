@@ -1,0 +1,11 @@
+.font {
+  margin: 60px auto;
+  font-size: 20px;
+  line-height: 1.5;
+}
+.header {
+  margin: 60px auto;
+  font-size: 20px;
+  line-height: 1.5;
+  background-color: #2727d9;
+}
